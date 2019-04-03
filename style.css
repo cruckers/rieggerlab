@@ -1,0 +1,11 @@
+/*Den "header" ein wenig herunter versetzen*/
+header {
+    padding-top: 70px;
+}
+
+/*Den Titel im "header" blau machen*/
+header h1 {
+    color: blue;
+}
+
+
