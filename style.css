@@ -1,6 +1,6 @@
-/*Den "header" ein wenig herunter versetzen*/
-header {
-    padding-top: 300px;
+body {
+    height: 100%;
+    width: 100%;
 }
 
 /*Den Titel im "header" blau machen*/
